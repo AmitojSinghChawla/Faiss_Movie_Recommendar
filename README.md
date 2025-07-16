@@ -124,9 +124,6 @@ Since the model files are large, the app **downloads them at runtime** from Goog
 * [x] Transformer embedding version
 * [x] Streamlit frontend
 * [x] GDrive integration for file loading
-* [ ] Add MLflow for comparison
-* [ ] Improve recommendation quality further using cast/director metadata
-
 ---
 
 ## 🧠 Author
