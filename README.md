@@ -1,7 +1,5 @@
 
-```markdown
 # 🎬 FAISS-based Movie Recommendation System
-```
 ---
 
 A **content-based movie recommender system** powered by:
