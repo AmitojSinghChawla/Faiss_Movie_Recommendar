@@ -1,3 +1,5 @@
-Raw_Data
-Embeddings
-Index
+Raw_Data/movies_cleaned.csv
+Embeddings/reduced_matrix.npy
+Index/faiss.index
+Embeddings/transformer_embeddings.npy
+TransformersEmbeddings/Embeddings

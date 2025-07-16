@@ -15,7 +15,7 @@ print(f"Resolved path: {index_path}")  # ✅ Always works
 # ---------------------------------------------
 
 # Initialize the SVD with 100 components
-svd = TruncatedSVD(n_components=100, random_state=42)
+svd = TruncatedSVD(n_components=500, random_state=42)
 
 # Apply SVD to reduce the dimensionality of the TF-IDF matrix
 reduced_matrix = svd.fit_transform(tfidf_matrix)
